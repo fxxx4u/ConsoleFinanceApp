@@ -1,8 +1,8 @@
-﻿# PersonalFinanceConsoleApp
+﻿# FinanceConsoleApp
 
 Консольное приложение для учета личных финансов.
 
-## Кратко
+## Краткое описание
 - Кошельки (Wallet) с начальным балансом и транзакциями.
 - Транзакции: `Id`, `Date`, `Amount`, `Type` (Income/Expense), `Description`.
 - Баланс считается как `InitialBalance + incomes - expenses`.
