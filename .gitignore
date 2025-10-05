@@ -1,0 +1,25 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build Folders
+bin/
+obj/
+
+# Rider
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# NuGet
+*.nupkg
+packages/
+
+# Test result files
+TestResults/
+
+# User-specific files
+*.user

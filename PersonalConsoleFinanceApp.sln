@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleFinanceApp", "ConsoleFinanceApp\ConsoleFinanceApp.csproj", "{1AD39D16-8B64-4BC1-B6EE-5B51D2027662}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonalFinanceConsoleApp.Tests", "PersonalFinanceConsoleApp.Tests\PersonalFinanceConsoleApp.Tests.csproj", "{F00382CA-3566-463E-AFEB-B3A9EA358BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AD39D16-8B64-4BC1-B6EE-5B51D2027662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD39D16-8B64-4BC1-B6EE-5B51D2027662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD39D16-8B64-4BC1-B6EE-5B51D2027662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD39D16-8B64-4BC1-B6EE-5B51D2027662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F00382CA-3566-463E-AFEB-B3A9EA358BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00382CA-3566-463E-AFEB-B3A9EA358BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00382CA-3566-463E-AFEB-B3A9EA358BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00382CA-3566-463E-AFEB-B3A9EA358BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4FD436F-0180-48D0-99D3-7FFDE8BE0B29}
+	EndGlobalSection
+EndGlobal
